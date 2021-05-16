@@ -26,6 +26,12 @@
   margin: 20px 0;
   cursor: pointer;
   width: 100px;
+  transition: all 0.3s ease;
+}
+
+.upload-btn:hover{
+  color: bisque;
+  background-color: black;
 }
 
 .upload-input {

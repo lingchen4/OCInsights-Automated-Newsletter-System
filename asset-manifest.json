@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/World-CO2-emission-vs-years/static/css/main.92e0961b.chunk.css",
+    "main.js": "/World-CO2-emission-vs-years/static/js/main.b15915ab.chunk.js",
+    "main.js.map": "/World-CO2-emission-vs-years/static/js/main.b15915ab.chunk.js.map",
+    "runtime-main.js": "/World-CO2-emission-vs-years/static/js/runtime-main.c8dde5a0.js",
+    "runtime-main.js.map": "/World-CO2-emission-vs-years/static/js/runtime-main.c8dde5a0.js.map",
+    "static/css/2.979034dc.chunk.css": "/World-CO2-emission-vs-years/static/css/2.979034dc.chunk.css",
+    "static/js/2.4bb9c318.chunk.js": "/World-CO2-emission-vs-years/static/js/2.4bb9c318.chunk.js",
+    "static/js/2.4bb9c318.chunk.js.map": "/World-CO2-emission-vs-years/static/js/2.4bb9c318.chunk.js.map",
+    "index.html": "/World-CO2-emission-vs-years/index.html",
+    "static/css/2.979034dc.chunk.css.map": "/World-CO2-emission-vs-years/static/css/2.979034dc.chunk.css.map",
+    "static/css/main.92e0961b.chunk.css.map": "/World-CO2-emission-vs-years/static/css/main.92e0961b.chunk.css.map",
+    "static/js/2.4bb9c318.chunk.js.LICENSE.txt": "/World-CO2-emission-vs-years/static/js/2.4bb9c318.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8dde5a0.js",
+    "static/css/2.979034dc.chunk.css",
+    "static/js/2.4bb9c318.chunk.js",
+    "static/css/main.92e0961b.chunk.css",
+    "static/js/main.b15915ab.chunk.js"
+  ]
+}

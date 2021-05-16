@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/OCInsights-Automated-Newsletter-Systems/static/css/main.92e0961b.chunk.css",
-    "main.js": "/OCInsights-Automated-Newsletter-Systems/static/js/main.b15915ab.chunk.js",
-    "main.js.map": "/OCInsights-Automated-Newsletter-Systems/static/js/main.b15915ab.chunk.js.map",
-    "runtime-main.js": "/OCInsights-Automated-Newsletter-Systems/static/js/runtime-main.97315928.js",
-    "runtime-main.js.map": "/OCInsights-Automated-Newsletter-Systems/static/js/runtime-main.97315928.js.map",
-    "static/css/2.979034dc.chunk.css": "/OCInsights-Automated-Newsletter-Systems/static/css/2.979034dc.chunk.css",
-    "static/js/2.4bb9c318.chunk.js": "/OCInsights-Automated-Newsletter-Systems/static/js/2.4bb9c318.chunk.js",
-    "static/js/2.4bb9c318.chunk.js.map": "/OCInsights-Automated-Newsletter-Systems/static/js/2.4bb9c318.chunk.js.map",
-    "index.html": "/OCInsights-Automated-Newsletter-Systems/index.html",
-    "static/css/2.979034dc.chunk.css.map": "/OCInsights-Automated-Newsletter-Systems/static/css/2.979034dc.chunk.css.map",
-    "static/css/main.92e0961b.chunk.css.map": "/OCInsights-Automated-Newsletter-Systems/static/css/main.92e0961b.chunk.css.map",
-    "static/js/2.4bb9c318.chunk.js.LICENSE.txt": "/OCInsights-Automated-Newsletter-Systems/static/js/2.4bb9c318.chunk.js.LICENSE.txt"
+    "main.css": "/OCInsights-Automated-Newsletter-System/static/css/main.92e0961b.chunk.css",
+    "main.js": "/OCInsights-Automated-Newsletter-System/static/js/main.b15915ab.chunk.js",
+    "main.js.map": "/OCInsights-Automated-Newsletter-System/static/js/main.b15915ab.chunk.js.map",
+    "runtime-main.js": "/OCInsights-Automated-Newsletter-System/static/js/runtime-main.b1693ad2.js",
+    "runtime-main.js.map": "/OCInsights-Automated-Newsletter-System/static/js/runtime-main.b1693ad2.js.map",
+    "static/css/2.979034dc.chunk.css": "/OCInsights-Automated-Newsletter-System/static/css/2.979034dc.chunk.css",
+    "static/js/2.4bb9c318.chunk.js": "/OCInsights-Automated-Newsletter-System/static/js/2.4bb9c318.chunk.js",
+    "static/js/2.4bb9c318.chunk.js.map": "/OCInsights-Automated-Newsletter-System/static/js/2.4bb9c318.chunk.js.map",
+    "index.html": "/OCInsights-Automated-Newsletter-System/index.html",
+    "static/css/2.979034dc.chunk.css.map": "/OCInsights-Automated-Newsletter-System/static/css/2.979034dc.chunk.css.map",
+    "static/css/main.92e0961b.chunk.css.map": "/OCInsights-Automated-Newsletter-System/static/css/main.92e0961b.chunk.css.map",
+    "static/js/2.4bb9c318.chunk.js.LICENSE.txt": "/OCInsights-Automated-Newsletter-System/static/js/2.4bb9c318.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97315928.js",
+    "static/js/runtime-main.b1693ad2.js",
     "static/css/2.979034dc.chunk.css",
     "static/js/2.4bb9c318.chunk.js",
     "static/css/main.92e0961b.chunk.css",

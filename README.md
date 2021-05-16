@@ -1,6 +1,6 @@
 # Live version
 
-Livesite[https://lingchen4.github.io/OCInsights-Automated-Newsletter-System/]
+[Livesite](https://lingchen4.github.io/OCInsights-Automated-Newsletter-System/)
 
 ## Available Scripts
 
